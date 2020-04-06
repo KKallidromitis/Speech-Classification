@@ -1,1 +1,1 @@
-# Speech-classification
+# Speech-Commands-Classification
