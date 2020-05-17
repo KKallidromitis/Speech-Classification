@@ -13,3 +13,11 @@ Datset Name: Speech Commands Data Set v0.02
 Download Link used: http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
 
 Run Files in order lsited above to follow the same process as the project
+### Examples of the word UP found in the data
+![](up1.png)
+![](up2.png)
+
+### Final Accuracies of the model
+
+
+![](accs.png)
